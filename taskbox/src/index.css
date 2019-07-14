@@ -18,10 +18,10 @@ code {
  * ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
  @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,800');
  html,
- code {
+ /* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
-} 
+}  */
  body {
    margin: 0;
    padding: 0;
